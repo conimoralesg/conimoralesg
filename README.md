@@ -22,4 +22,4 @@ and landslides — using Python, Google Earth Engine, and QGIS.
 ## 📫 Contact
 
 - LinkedIn: www.linkedin.com/in/constanzamoralesgajardo
-- 📍 📍 Chiang Mai, Thailand → Perth, Australia (Aug 2026) · Open to Perth-based and remote opportunities
+- 📍 Chiang Mai, Thailand → Perth, Australia (Aug 2026) · Open to Perth-based and remote opportunities
