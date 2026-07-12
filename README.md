@@ -12,8 +12,8 @@ and landslides — using Python, Google Earth Engine, and QGIS.
 | [Drought Analysis — Limarí Valley, Chile](https://github.com/conimoralesg/limari-drought-analysis) | Multi-year NDVI drought monitoring (2016–2024) with Sentinel-2 | GEE, geemap, Python |
 | [Flood Risk — Chiang Mai, Thailand](https://github.com/conimoralesg/chiangmai-flood-risk) | Flood risk assessment with interactive web maps | Python, Folium, GeoPandas |
 | [Flood Risk — Nacimiento, Chile](https://github.com/conimoralesg/nacimiento-flood-risk) | Flood-prone zone mapping over satellite imagery | geemap, GEE, QGIS |
-
-🔜 Coming next: burned area mapping (NBR) and landslide susceptibility modeling.
+| [Wildfire Severity — Nacimiento, Chile](https://github.com/conimoralesg/nacimiento-wildfire-2023) | Post-fire burn severity mapping (NBR/dNBR) — "Santa Ana" megafire, Feb 2023 | GEE, geemap, Sentinel-2 |
+| [Landslide Susceptibility — Nacimiento, Chile](https://github.com/conimoralesg/nacimiento-landslide-susceptibility) | Post-fire landslide susceptibility modeling using weighted overlay | Python, rasterio, GEE |
 
 ## 🧰 Tech Stack
 
